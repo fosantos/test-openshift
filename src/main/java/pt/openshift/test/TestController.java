@@ -11,7 +11,7 @@ public class TestController {
     @GetMapping("/getTest")
     public Name getTestName() {
 
-        Name nomeObj = new Name("Fabio", "Santos");
+        Name nomeObj = new Name("Fabio", "Santos", 1974);
         return nomeObj;
     }
 }

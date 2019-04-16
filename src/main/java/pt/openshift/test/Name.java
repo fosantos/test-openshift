@@ -11,4 +11,5 @@ public class Name {
 
     private String nome;
     private String apelido;
+    private int birthYear;
 }
