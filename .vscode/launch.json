@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestApplication",
+            "request": "launch",
+            "mainClass": "pt.openshift.test.TestApplication",
+            "projectName": "test"
+        }
+    ]
+}
